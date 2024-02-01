@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @priyanshusingh2001
-- 👀 I’m interested in Building my own business.
-- 🌱 I’m currently persuing B.tech.
-- 💞️ I’m looking to collaborate on my new project.
 - 📫 You can reach me at prinzzz.singh17@gmail.com
 
 <!---
